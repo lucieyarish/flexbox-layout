@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
   }
   
   .menu-container {
@@ -13,14 +15,12 @@
   }
   
   .menu {
-    border: 1px solid #fff;
     width: 900px;
     display: flex;
     justify-content: space-between;
   }
 
   .links {
-    border: 1px solid #fff;
     display: flex;
     justify-content: flex-end;
   }
