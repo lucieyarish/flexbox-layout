@@ -6,7 +6,7 @@ This simple webpage layout was created as a way to practice flexbox basics while
 
 ### Preview
 
-![Flexbox project preview](https://github.com/lucieyarish/flexbox-layout/images/project-preview.png)
+![Flexbox project preview](https://github.com/lucieyarish/flexbox-layout/blob/main/images/project-preview.png)
 
 ### View Project In Browser
 
